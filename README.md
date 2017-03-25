@@ -1,2 +1,0 @@
-# TCCempre
-TCC - Fatec/IPI
